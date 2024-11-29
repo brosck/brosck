@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
 Hey! I'm Brosck, I'm 19 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrEmpy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brosck&hide=html,css,javascript,shell,powershell,php,makefile&layout=compact&theme=radical" alt="My cool logo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=brosck&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brosck&hide=html,css,javascript,shell,powershell,php,makefile&layout=compact&theme=radical" alt="My cool logo"/>
 
 <h2>More about me</h2>
 
